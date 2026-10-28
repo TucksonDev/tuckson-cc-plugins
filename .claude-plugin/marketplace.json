@@ -1,0 +1,17 @@
+{
+  "name": "tuckson-cc-plugins",
+  "description": "TucksonDev's Claude Code plugins.",
+  "owner": { "name": "TucksonDev" },
+  "plugins": [
+    {
+      "name": "herdr",
+      "source": "./plugins/herdr",
+      "description": "Skills for Claude Code sessions running inside herdr panes. Adds /herdr:fork-session."
+    },
+    {
+      "name": "fitness",
+      "source": "./plugins/fitness",
+      "description": "Suggests a desk-friendly exercise while Claude works and tracks what you did."
+    }
+  ]
+}

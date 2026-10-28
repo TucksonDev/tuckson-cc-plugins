@@ -1,0 +1,9 @@
+{
+  "name": "herdr",
+  "version": "0.1.0",
+  "description": "Skills for Claude Code sessions running inside herdr panes. Adds /herdr:fork-session.",
+  "author": { "name": "TucksonDev" },
+  "repository": "https://github.com/TucksonDev/tuckson-cc-plugins",
+  "license": "MIT",
+  "keywords": ["herdr", "fork", "session", "pane"]
+}

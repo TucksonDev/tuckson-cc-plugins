@@ -1,0 +1,7 @@
+{
+  "name": "fitness",
+  "version": "0.1.0",
+  "description": "Suggests a desk-friendly exercise while Claude works and tracks what you did.",
+  "author": { "name": "TucksonDev" },
+  "types": "./types/index.d.ts"
+}
